@@ -35,7 +35,7 @@ Results demonstrate that:
 
 Clone the repo and install dependencies:
 
-git clone https://github.com/yourusername/timestamp-aes-refresh.git
+git clone https://github.com/SunnYNehrA01/TimeStamp-AES-Refresh.git
 cd timestamp-aes-refresh
 pip install -r requirements.txt
 
@@ -64,8 +64,11 @@ Preserves AES-level security while reducing reliance on costly public-key crypto
 If you use this work, please cite:
 
 Author: Sunny Nehra, Lakshya Soni
+
 Title: Timestamp-based AES Key Refresh for IoT Security
+
 Year: 2025
+
 Repository: https://github.com/SunnYNehrA01/TimeStamp-AES-Refresh
 
 ## 📌 Future Work
